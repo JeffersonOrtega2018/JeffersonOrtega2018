@@ -1,12 +1,27 @@
-### Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on ...
+🌱 I’m currently learning ...
+👯 I’m looking to collaborate on ...
+🤔 I’m looking for help with ...
+💬 Ask me about ...
+📫 How to reach me: ...
+😄 Pronouns: ...
+⚡ Fun fact:
+:music: I love listening to phonk music
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JeffersonOrtega2018&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JeffersonOrtega2018&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonOrtega2018&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
+### ✍️ Random Dev Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=JeffersonOrtega2018&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <!--

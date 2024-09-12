@@ -16,7 +16,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 😂 Random Dev Meme
-<img src="[https://random-memer.herokuapp.com/](https://scontent.flim2-4.fna.fbcdn.net/v/t1.6435-9/119063569_1979139988883030_2195070014360027535_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=CbklnAZvWCUQ7kNvgF5n2Jw&_nc_ht=scontent.flim2-4.fna&_nc_gid=AW4xxWXc8v57jF8pMy21yau&oh=00_AYDYvJp6oJKx7HjRjxzQnZrsu-gRHA2qQA4jKlCu9ZAIKQ&oe=670AEA48)" width="512px"/>
+<img src="[https://www.softzone.es/app/uploads-softzone.es/2021/11/meme-line.jpg]" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JeffersonOrtega2018&icon=0&color=1)](https://visitcount.itsvg.in)

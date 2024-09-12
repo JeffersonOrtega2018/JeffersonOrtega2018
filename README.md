@@ -16,7 +16,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ### 😂 Random Dev Meme
-<img src="[https://www.softzone.es/app/uploads-softzone.es/2021/11/meme-line.jpg]" width="512px"/>
+<img src="https://www.softzone.es/app/uploads-softzone.es/2021/11/meme-line.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JeffersonOrtega2018&icon=0&color=1)](https://visitcount.itsvg.in)
